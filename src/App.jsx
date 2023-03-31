@@ -5,6 +5,7 @@ import Header from './components/Header/Header'
 import SideCart from './components/SideCart/SideCart'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import QnAndAns from './components/QnAndAns/QnAndAns'
 
 
 function App() {
@@ -31,7 +32,7 @@ function App() {
           <Blogs handleMarkAsRead={handleMarkAsRead} handleBookmark={handleBookmark} />
           <SideCart time={time} titles={titles} />
         </main>
-
+        <QnAndAns />
         <ToastContainer />
     </div>
   )
