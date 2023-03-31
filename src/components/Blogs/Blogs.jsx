@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
+import SingleBlog from '../SingleBlog/SingleBlog';
 
-const Blog = () => {
+const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
@@ -10,10 +11,12 @@ const Blog = () => {
     },[])
 
     return (
-        <section>
-            
+        <section className='card-container'>
+            {
+                blogs.map(blog => <SingleBlog key={blog.id} blog={blog} />)
+            }
         </section>
     );
 };
 
-export default Blog;
+export default Blogs;

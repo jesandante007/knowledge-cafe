@@ -4,39 +4,39 @@
       "authorName": "Tanvir Ahmad",
       "blogTitle": "How to learn React as a beginner",
       "image": "{}",
-      "coverImage": "{https://as1.ftcdn.net/v2/jpg/04/81/66/20/1000_F_481662091_vHoerJkLbxIMX2MBFQ5nNmTVXX2HYz4S.jpg}",
-      "authorImage": "{https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_1280.png}",
-      "readTime": "{10}",
-      "publishDate": "{Mar 20}"
+      "coverImage": "https://as1.ftcdn.net/v2/jpg/04/81/66/20/1000_F_481662091_vHoerJkLbxIMX2MBFQ5nNmTVXX2HYz4S.jpg",
+      "authorImage": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_1280.png",
+      "readTime": "10",
+      "publishDate": "Mar 20"
     },
     {
       "id": "2",
       "authorName": "Abdul Ahad",
       "blogTitle": "Learn Tailwind css & make your site responsive",
       "image": "{}",
-      "coverImage": "{https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2021/02/blog-2.jpg}",
-      "authorImage": "{https://e7.pngegg.com/pngimages/304/305/png-clipart-man-with-formal-suit-illustration-web-development-computer-icons-avatar-business-user-profile-child-face.png}",
-      "readTime": "{12}",
-      "publishDate": "{Mar 18}"
+      "coverImage": "https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2021/02/blog-2.jpg",
+      "authorImage": "https://e7.pngegg.com/pngimages/304/305/png-clipart-man-with-formal-suit-illustration-web-development-computer-icons-avatar-business-user-profile-child-face.png",
+      "readTime": "12",
+      "publishDate": "Mar 18"
     },
     {
       "id": "3",
       "authorName": "Sefat Sarker",
       "blogTitle": "Tech yourself JavaScript",
       "image": "{}",
-      "coverImage": "{https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80}",
-      "authorImage": "{https://banner2.cleanpng.com/20180717/cz/kisspng-avatar-youtube-person-kahoot-a-roommate-who-plays-with-a-cell-phone-5b4d74010dd214.7783760115318026250566.jpg}",
-      "readTime": "{15}",
-      "publishDate": "{Mar 15}"
+      "coverImage": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+      "authorImage": "https://banner2.cleanpng.com/20180717/cz/kisspng-avatar-youtube-person-kahoot-a-roommate-who-plays-with-a-cell-phone-5b4d74010dd214.7783760115318026250566.jpg",
+      "readTime": "15",
+      "publishDate": "Mar 15"
     },
     {
       "id": "4",
       "authorName": "Mr. Raju",
       "blogTitle": "How to get your first job as a self-taught programmer",
       "image": "{}",
-      "coverImage": "{https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1680193067~exp=1680193667~hmac=6de61410e5b04ac63e2ca0b03e39cb7b38a7ac7ddd99aa13cba85370544c8981}",
-      "authorImage": "{https://img2.gratispng.com/20180329/xtw/kisspng-avatar-person-head-5abcd58414b270.9596710015223248680848.jpg}",
-      "readTime": "{8}",
-      "publishDate": "{Mar 14}"
+      "coverImage": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1680193067~exp=1680193667~hmac=6de61410e5b04ac63e2ca0b03e39cb7b38a7ac7ddd99aa13cba85370544c8981",
+      "authorImage": "https://img2.gratispng.com/20180329/xtw/kisspng-avatar-person-head-5abcd58414b270.9596710015223248680848.jpg",
+      "readTime": "8",
+      "publishDate": "Mar 14"
     }
   ]
