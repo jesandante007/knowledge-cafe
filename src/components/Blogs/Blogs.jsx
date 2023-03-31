@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import SingleBlog from '../SingleBlog/SingleBlog';
 
-const Blogs = () => {
+const Blogs = ({handleMarkAsRead, handleBookmark}) => {
     const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
@@ -13,7 +13,7 @@ const Blogs = () => {
     return (
         <section className='card-container'>
             {
-                blogs.map(blog => <SingleBlog key={blog.id} blog={blog} />)
+                blogs.map(blog => <SingleBlog key={blog.id} blog={blog} handleMarkAsRead={handleMarkAsRead} handleBookmark={handleBookmark} />)
             }
         </section>
     );
